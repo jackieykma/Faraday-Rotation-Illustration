@@ -2,7 +2,7 @@
 A Python script that illustrates the effect of Faraday rotation as it traverses through foreground magneto-ionic medium
 
 !! NOTE !!
-In order to generate Faraday spectra, the RM-Synthesis code by Michael Bell (https://github.com/mrbell/pyrmsynth) is needed. Pyfits is also required to create the dummy .FITS files.
+In order to generate Faraday spectra, the RM-Synthesis code by Michael Bell (https://github.com/mrbell/pyrmsynth) is needed. Pyfits is also required to create the dummy .FITS files. These are not necessary if RM-Synthesis is not performed
 
 
 An updated illustration to Faraday rotation during propagation
